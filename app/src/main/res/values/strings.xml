@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">RecyclerView1</string>
+    <string name="name">Hero Name</string>
+    <string name="description">Description</string>
+    <string name="image">Hero Image</string>
+    <string name="back">Back</string>
+    <string-array name="hero_names">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Bung Tomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Sudirman</item>
+        <item>Sukarno</item>
+        <item>Supomo</item>
+    </string-array>
+
+    <string-array name="hero_descriptions">
+        <item>
+            \tAhmad Dahlan, yang lahir dengan nama Muhammad Darwis, adalah pendiri organisasi Muhammadiyah, salah satu organisasi Islam terbesar di Indonesia. Sebagai ulama dan reformis, Ahmad Dahlan berjuang untuk memajukan pendidikan Islam dengan membentuk sekolah-sekolah modern yang mengajarkan ilmu agama sekaligus ilmu pengetahuan umum. Ia percaya bahwa umat Islam harus menguasai ilmu pengetahuan agar bisa berkontribusi dalam kemajuan bangsa.
+            \n\n
+            \tMelalui Muhammadiyah, Ahmad Dahlan juga berperan dalam mengembangkan berbagai program sosial, kesehatan, dan ekonomi yang mendukung kesejahteraan masyarakat. Ajaran dan pemikiran Ahmad Dahlan berfokus pada pembaruan Islam agar lebih relevan dengan tantangan zaman, sehingga hingga kini Muhammadiyah terus menjadi motor penggerak dalam bidang pendidikan, sosial, dan dakwah di Indonesia.
+        </item>
+        <item>
+            \tJenderal Ahmad Yani adalah salah satu pahlawan revolusi Indonesia yang dikenal atas perannya dalam menjaga stabilitas negara di tengah gejolak politik dan militer pada era 1960-an. Sebagai Panglima Angkatan Darat, Yani aktif dalam menumpas pemberontakan DI/TII dan PRRI/Permesta, serta berperan penting dalam memodernisasi TNI Angkatan Darat. Ia memiliki pandangan tegas dalam menolak komunisme dan menjaga kedaulatan Indonesia dari pengaruh ideologi luar.
+            \n\n
+            \tSayangnya, hidup Ahmad Yani berakhir tragis saat ia menjadi salah satu korban dalam peristiwa G30S/PKI. Pada 1 Oktober 1965, ia diculik dan dibunuh oleh anggota Gerakan 30 September (G30S). Pengorbanannya bersama enam jenderal lainnya diabadikan dalam sejarah Indonesia sebagai Pahlawan Revolusi, yang dikenang sebagai simbol perlawanan terhadap kudeta dan upaya menjaga kedaulatan negara.
+        </item>
+        <item>
+            \tBung Tomo, atau Sutomo, adalah pahlawan Indonesia yang terkenal karena perannya dalam Pertempuran Surabaya tahun 1945. Ia menjadi ikon perlawanan rakyat Surabaya terhadap pasukan Sekutu yang ingin menguasai kembali Indonesia setelah Proklamasi Kemerdekaan. Dengan semangat dan pidato yang membakar jiwa patriotisme, Bung Tomo berhasil memimpin pemuda-pemuda Indonesia untuk bertempur mempertahankan kemerdekaan. Pertempuran tersebut menjadi salah satu peristiwa penting dalam sejarah perjuangan Indonesia melawan penjajah.
+            \n\n
+            \tSetelah perang, Bung Tomo aktif dalam politik dan menjadi anggota Dewan Perwakilan Rakyat. Meskipun tidak lagi di garis depan pertempuran, pengaruhnya dalam menyuarakan kemerdekaan dan kedaulatan Indonesia terus dikenang. Pada masa Orde Baru, Bung Tomo sempat menjadi kritikus terhadap kebijakan pemerintah, meskipun tidak secara langsung terlibat dalam pemerintahan.
+        </item>
+        <item>
+            \tGatot Subroto adalah seorang perwira tinggi militer Indonesia yang dikenal atas dedikasinya terhadap pengembangan TNI (Tentara Nasional Indonesia). Ia menjabat sebagai Panglima Tentara dan Teritorium IV pada era kemerdekaan Indonesia dan memiliki peran penting dalam penegakan disiplin serta profesionalisme di tubuh militer. Dengan keberaniannya, ia turut membantu memadamkan pemberontakan dan menjaga stabilitas nasional pada masa awal kemerdekaan.
+            \n\n
+            \tGatot Subroto juga berperan dalam bidang politik, terutama dalam memperjuangkan konsep dwifungsi ABRI (Angkatan Bersenjata Republik Indonesia), yang memungkinkan militer terlibat dalam aspek politik dan pemerintahan. Warisannya dikenang sebagai sosok yang menjaga integritas militer dan pengabdiannya untuk mempertahankan kedaulatan Indonesia.
+        </item>
+        <item>
+            \tKi Hadjar Dewantara, yang lahir dengan nama Raden Mas Soewardi Soerjaningrat, adalah pendiri Taman Siswa dan salah satu tokoh pendidikan paling berpengaruh di Indonesia. Ia mempelopori pendidikan nasional yang terbuka untuk semua lapisan masyarakat, termasuk rakyat biasa yang sebelumnya sulit mengakses pendidikan. Dengan semboyannya yang terkenal, "Ing ngarso sung tulodo, ing madyo mangun karso, tut wuri handayani," ia menekankan pentingnya pendidikan yang membimbing dan memberi teladan.
+            \n\n
+            \tSelain sebagai pendidik, Ki Hadjar Dewantara juga aktif dalam pergerakan kemerdekaan Indonesia. Ia pernah diasingkan ke Belanda karena tulisannya yang mengkritik kebijakan kolonial. Namun, setelah kembali ke Indonesia, ia terus berjuang melalui jalur pendidikan, meyakini bahwa pendidikan adalah kunci untuk mencapai kemerdekaan dan membangun bangsa yang berdaulat.
+        </item>
+        <item>
+            \tMohammad Hatta, yang juga dikenal sebagai Bapak Koperasi Indonesia, adalah salah satu Proklamator Kemerdekaan Indonesia bersama Sukarno. Sebagai Wakil Presiden pertama Indonesia, Hatta memainkan peran penting dalam merumuskan dasar-dasar negara dan memperjuangkan demokrasi di Indonesia. Ia dikenal sebagai sosok yang sederhana dan intelektual, serta memiliki visi kuat tentang ekonomi berbasis kerakyatan melalui koperasi.
+            \n\n
+            \tDi masa kemerdekaan, Hatta juga berperan dalam diplomasi internasional, khususnya dalam menggalang dukungan bagi kedaulatan Indonesia. Setelah mengundurkan diri sebagai Wakil Presiden pada tahun 1956, Hatta tetap aktif dalam menulis dan mengadvokasi ide-ide sosial ekonomi yang memperjuangkan kesejahteraan rakyat.
+        </item>
+        <item>
+            \tJenderal Sudirman adalah Panglima Besar Tentara Nasional Indonesia yang dikenal atas keberanian dan semangat juangnya selama Perang Kemerdekaan Indonesia. Meskipun menderita sakit parah, Sudirman tetap memimpin perang gerilya melawan Belanda yang mencoba kembali menjajah Indonesia setelah Proklamasi Kemerdekaan. Sikapnya yang teguh dan patriotik menjadikannya simbol perlawanan rakyat Indonesia.
+            \n\n
+            \tSudirman juga dikenal karena memimpin dengan teladan, menginspirasi prajurit dan rakyat untuk terus berjuang demi mempertahankan kemerdekaan Indonesia. Meskipun hidupnya singkat, perjuangan dan dedikasinya meninggalkan warisan yang dihormati dan diabadikan dalam sejarah militer Indonesia.
+        </item>
+        <item>
+            \tSukarno adalah Presiden pertama Indonesia sekaligus Proklamator Kemerdekaan yang bersama Mohammad Hatta membacakan Proklamasi pada 17 Agustus 1945. Sebagai pemimpin yang kharismatik, Sukarno berhasil menyatukan berbagai elemen bangsa untuk memperjuangkan kemerdekaan. Dengan pidato-pidatonya yang berapi-api, ia memotivasi rakyat Indonesia untuk melawan penjajahan dan meraih kemerdekaan. Sukarno juga berperan penting dalam merumuskan dasar negara, Pancasila, yang hingga kini menjadi ideologi bangsa.
+            \n\n
+            \tSetelah kemerdekaan, Sukarno memimpin Indonesia melalui berbagai tantangan, termasuk mempertahankan kemerdekaan dari ancaman asing dan dalam negeri. Pada era kepemimpinannya, Indonesia juga memainkan peran penting di kancah internasional, terutama dalam Gerakan Non-Blok. Meskipun akhir masa kepemimpinannya penuh dengan kontroversi, Sukarno tetap dihormati sebagai tokoh besar dalam sejarah Indonesia.
+        </item>
+        <item>
+            \tProf. Dr. Mr. Supomo adalah salah satu tokoh penting dalam perumusan konstitusi Indonesia. Ia berperan dalam penyusunan Undang-Undang Dasar 1945, khususnya dalam aspek yang berkaitan dengan sistem pemerintahan dan peran negara dalam kehidupan rakyat. Sebagai ahli hukum, Supomo memperjuangkan konsep negara integralistik, di mana negara tidak hanya berfungsi sebagai penjaga ketertiban, tetapi juga sebagai entitas yang menyatukan kepentingan rakyat.
+            \n\n
+            \tSelain berperan dalam perumusan dasar negara, Supomo juga aktif sebagai akademisi dan pengajar. Ia dikenal sebagai salah satu pelopor studi hukum di Indonesia, dengan pengaruhnya yang besar terhadap pembentukan sistem hukum nasional. Warisannya tetap dikenang sebagai pejuang di bidang hukum dan konstitusi Indonesia.
+        </item>
+    </string-array>
+
+    <string-array name="hero_images">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/bung_tomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/sudirman</item>
+        <item>@drawable/sukarno</item>
+        <item>@drawable/supomo</item>
+    </string-array>
+
+</resources>
